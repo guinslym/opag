@@ -1,0 +1,17 @@
+todo:
+ ☐ Run the app python2
+ ☐ Check Markdown.py file
+ ☐ pip install markdown to try it on an app
+ ☐ Analyze the main.models.py
+ ☐ Find a Template (KSKS)
+ ☐ Test the application (TDD/BDD)
+ ☐ Make the application Python3 and Python2 compatible
+
+
+Steps:
+ ☐ KSKS
+ ☐ Find a template
+ ☐ How to use makdown in the text area
+ ☐ Start the app in python3 
+ ☐ When the app is complete check if it will work in python2
+ ☐ KSKS
